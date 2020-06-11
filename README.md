@@ -23,6 +23,11 @@ Shout-out to [@ian-flores](https://github.com/ian-flores) who helped create this
   - [Data Science to Save the World](https://www.youtube.com/watch?v=eLyPxzR29eI) (WiDS 2018 Keynote) by [Latanya Sweeney](https://twitter.com/LatanyaSweeney)
   
   - The 1998 academic paper on [k-anonymity](https://dataprivacylab.org/dataprivacy/projects/kanonymity/paper3.pdf) by Pierangela Samarati and [Latanya Sweeney](https://twitter.com/LatanyaSweeney)
+  
+  - <a href= https://www.fastcompany.com/90323529/privacy-is-not-an-abstraction>Privacy’s
+    not an abstraction</a> by
+    <a href="https://twitter.com/hypervisible">Chris
+    Gilliard</a>
     
   - <a href=https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4>Data
     Violence and How Bad Engineering Choices Can Damage Society</a> by [Anna Lauren
@@ -66,11 +71,6 @@ Shout-out to [@ian-flores](https://github.com/ian-flores) who helped create this
 
   - [A Framework for Understanding Unintended Consequences of Machine
     Learning](http://harinisuresh.com/img/bias_framework.pdf) by Harini Suresh and John V. Guttag
-
-  - <a href= https://www.fastcompany.com/90323529/privacy-is-not-an-abstraction>Privacy’s
-    not an abstraction</a> by
-    <a href="https://twitter.com/hypervisible">Chris
-    Gilliard</a>
 
   - <a href= https://www.fastcompany.com/90318234/privacy-not-dead-its-just-not-evenly-distributed>
     Privacy’s not dead—it’s just not evenly distributed</a> by Alex
